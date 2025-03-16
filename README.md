@@ -1,8 +1,6 @@
 <h1 align="left">Hi 👋! My name is Muhammad Yafi Rifdah Zayyan</h1>
 
-###
-
-<h2 align="left">🌟 About Me</h2>
+<h2 align="center">🌟 About Me</h2>
 
 
 <h4 align="center">I am a developer who thrives at the intersection of technology and design. My primary focus is on building scalable and maintainable software solutions, while ensuring they deliver an exceptional user experience.</h4>
